@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "GoodTip/ViewController.swift"
+            timestampString = "504331327.435918"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodTip.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "GoodTip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenan/Documents/GoodTip/GoodTip/ViewController.swift"
+                  timestampString = "504257943.224603"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodTip.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "GoodTip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenan/Documents/GoodTip/GoodTip/ViewController.swift"
+                  timestampString = "504257943.228674"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "42">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodTip.ViewController.init (nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; GoodTip.ViewController"
+                  moduleName = "GoodTip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenan/Documents/GoodTip/GoodTip/ViewController.swift"
+                  timestampString = "504257943.230034"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "70">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "GoodTip.ViewController.init (coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;GoodTip.ViewController&gt;"
+                  moduleName = "GoodTip"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/kenan/Documents/GoodTip/GoodTip/ViewController.swift"
+                  timestampString = "504257943.231336"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "31">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
