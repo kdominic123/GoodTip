@@ -15,16 +15,18 @@ class ViewController: UIViewController {
     @IBOutlet weak var tipLabel: UILabel!
     @IBOutlet weak var totalLabel: UILabel!
     let defaults = UserDefaults.standard
+    let date = NSDate.init()
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        
         self.title = "GoodTip"
+        billField.becomeFirstResponder()
+
     }
     
     override func viewWillAppear(_ animated: Bool) {
         super.viewWillAppear(animated)
-        print("view will appear")
+        billField.becomeFirstResponder()
         
         var index = 0
         index = defaults.integer(forKey: "defaultPercentage")
@@ -34,17 +36,14 @@ class ViewController: UIViewController {
     
     override func viewDidAppear(_ animated: Bool) {
         super.viewDidAppear(animated)
-        print("view did appear")
     }
     
     override func viewWillDisappear(_ animated: Bool) {
         super.viewWillDisappear(animated)
-        print("view will disappear")
     }
     
     override func viewDidDisappear(_ animated: Bool) {
         super.viewDidDisappear(animated)
-        print("view did disappear")
     }
 
     override func didReceiveMemoryWarning() {
